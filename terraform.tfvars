@@ -1,0 +1,12 @@
+/**
+ * General Variables
+ */
+location = "westeurope"
+environment = "operation"
+stack_name = "operation"
+
+/**
+ * Host authentication
+ */
+admin_user = "andre_lohmann"
+pub_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCkWXL5arcAq7160g9559WsiJ3dnfnk84RuQaioAQsooi1QEVlyloCJIlVBTrllkIfaXTMwUKSCS495V8l4SDsjo+4k7/W3JInTt5VlKTg+ChKS66lpX8cBpobmLwPhYrdZP3kbA4CFhJe/6LyY7hsI6rY5TIK06LxPEucXbD1wcG+YSUo+m69ZarlVlg6qFtzw/rp2SnMmjaRcpU5INFM/cddQnL0yOAJYP3jBhVxGfRsxF/VHGe6hJXQSXZBF31PYVjsvwl9mRPTgmogFaLASrojEF3rM1TNDjuPbWaQlVCaspQEldLN3/56ptbByzXFsUQtYo+YERHc6C19te5rqQCPsj5X50uUfLTE9d1oTE/7gkDC44TFT2SIRJqrcqNYmK1ZQ4Tjhp3VfUsNOq9wtdoxuLG0+WIlfsmbY8J6mvFOQfl80gOswnQNR8x3HnNQojSgVdqzVxqhcq6Lii+8IFBrpS0eApQUVjioVH/0Y8wwfUG6UAH/Grp5y61LoB5RmEoC0RNclwRKWyPnUFOktfmfL6lMqFrowbL76R7LCJmfZQaV39z4q+Y1ftxVCv1Eo6AMPLtZzoDTQVQ/RIQeMSzyy9u4XTj1Ez62x6mOHtIe8DzNqGziyVe9RCCMA05QHXZdSmAcIi8NAoonFKC8jbRlyKUTghg5fQUYo+JnUsQ=="

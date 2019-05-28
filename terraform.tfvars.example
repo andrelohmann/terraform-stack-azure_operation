@@ -1,0 +1,12 @@
+/**
+ * General Variables
+ */
+location = "westeurope"
+environment = "operation"
+stack_name = "operation"
+
+/**
+ * Host authentication
+ */
+admin_user = "azureadmin"
+pub_key = "ssh-rsa AAAA..."
